@@ -1,0 +1,11 @@
+C:\Users\AriB\source\repos\Invvestigacion\Invvestigacion\bin\Debug\Invvestigacion.exe.config
+C:\Users\AriB\source\repos\Invvestigacion\Invvestigacion\bin\Debug\Invvestigacion.exe
+C:\Users\AriB\source\repos\Invvestigacion\Invvestigacion\bin\Debug\Invvestigacion.pdb
+C:\Users\AriB\source\repos\Invvestigacion\Invvestigacion\obj\Debug\Invvestigacion.csproj.AssemblyReference.cache
+C:\Users\AriB\source\repos\Invvestigacion\Invvestigacion\obj\Debug\Invvestigacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\AriB\source\repos\Invvestigacion\Invvestigacion\obj\Debug\Invvestigacion.Form1.resources
+C:\Users\AriB\source\repos\Invvestigacion\Invvestigacion\obj\Debug\Invvestigacion.Properties.Resources.resources
+C:\Users\AriB\source\repos\Invvestigacion\Invvestigacion\obj\Debug\Invvestigacion.csproj.GenerateResource.cache
+C:\Users\AriB\source\repos\Invvestigacion\Invvestigacion\obj\Debug\Invvestigacion.csproj.CoreCompileInputs.cache
+C:\Users\AriB\source\repos\Invvestigacion\Invvestigacion\obj\Debug\Invvestigacion.exe
+C:\Users\AriB\source\repos\Invvestigacion\Invvestigacion\obj\Debug\Invvestigacion.pdb

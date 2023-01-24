@@ -1,0 +1,9 @@
+C:\Users\AriB\source\repos\slnCursoNet\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\AriB\source\repos\slnCursoNet\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\AriB\source\repos\slnCursoNet\Negocio\bin\Debug\Negocio.dll
+C:\Users\AriB\source\repos\slnCursoNet\Negocio\bin\Debug\Negocio.pdb
+C:\Users\AriB\source\repos\slnCursoNet\Negocio\bin\Debug\Entidades.dll
+C:\Users\AriB\source\repos\slnCursoNet\Negocio\bin\Debug\Entidades.pdb
+C:\Users\AriB\source\repos\slnCursoNet\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\AriB\source\repos\slnCursoNet\Negocio\obj\Debug\Negocio.dll
+C:\Users\AriB\source\repos\slnCursoNet\Negocio\obj\Debug\Negocio.pdb

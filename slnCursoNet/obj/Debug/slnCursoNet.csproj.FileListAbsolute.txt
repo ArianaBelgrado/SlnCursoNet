@@ -1,0 +1,14 @@
+C:\Users\AriB\source\repos\slnCursoNet\slnCursoNet\obj\Debug\slnCursoNet.csproj.AssemblyReference.cache
+C:\Users\AriB\source\repos\slnCursoNet\slnCursoNet\obj\Debug\slnCursoNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\AriB\source\repos\slnCursoNet\slnCursoNet\obj\Debug\slnCursoNet.Properties.Resources.resources
+C:\Users\AriB\source\repos\slnCursoNet\slnCursoNet\obj\Debug\slnCursoNet.csproj.GenerateResource.cache
+C:\Users\AriB\source\repos\slnCursoNet\slnCursoNet\obj\Debug\slnCursoNet.csproj.CoreCompileInputs.cache
+C:\Users\AriB\source\repos\slnCursoNet\slnCursoNet\bin\Debug\slnCursoNet.exe.config
+C:\Users\AriB\source\repos\slnCursoNet\slnCursoNet\bin\Debug\slnCursoNet.exe
+C:\Users\AriB\source\repos\slnCursoNet\slnCursoNet\bin\Debug\slnCursoNet.pdb
+C:\Users\AriB\source\repos\slnCursoNet\slnCursoNet\obj\Debug\slnCursoNet.Form1.resources
+C:\Users\AriB\source\repos\slnCursoNet\slnCursoNet\obj\Debug\slnCursoNet.exe
+C:\Users\AriB\source\repos\slnCursoNet\slnCursoNet\obj\Debug\slnCursoNet.pdb
+C:\Users\AriB\source\repos\slnCursoNet\slnCursoNet\bin\Debug\Entidades.dll
+C:\Users\AriB\source\repos\slnCursoNet\slnCursoNet\bin\Debug\Entidades.pdb
+C:\Users\AriB\source\repos\slnCursoNet\slnCursoNet\obj\Debug\slnCursoNet.csproj.CopyComplete
